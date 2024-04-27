@@ -12,7 +12,7 @@
 
 <p align="left">
   <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github/forks/Lazack28/Lazack-Bot" />
+    <img alt="Forks" src="https://img.shields.io/github/forks/Lazack28/Lazack-md" />
   </a>
   
   
@@ -31,7 +31,7 @@
 1. ***Get [SESSION-ID](https://session-dnke.onrender.com) by pairing code. `Whatapp>Three dots>Linked Devices****
 --- 
 ### ```Fork Repo```
-2. ***Click [FORK](https://github.com/Lazack28/Lazack-Bot/fork)***
+2. ***Click [FORK](https://github.com/Lazack28/Lazack-md/fork)***
  
 ---
 
@@ -45,7 +45,7 @@
 </p>
 
 <p align="left" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Lazack28/Lazack-Bot">
+    <a href="https://heroku.com/deploy?template=https://github.com/Lazack28/Lazack-md">
     <img src="https://www.herokucdn.com/deploy/button.png" width="95px" alt="Deploy on Heroku" >
     </a>
 
@@ -57,7 +57,7 @@
 </h4>
 
 <p align="left" >
-    <a href="https://repl.it/github/Lazack28/Lazack-Bot">
+    <a href="https://repl.it/github/Lazack28/Lazack-md">
     <img src="https://repl.it/badge/github/quiec/whatsasena" width="95px" alt="Deploy on REPLIT" >
     </a>
 </p>
@@ -158,7 +158,7 @@
 <br>
 <h4 align="left">
   
-| [NAVEED DOGAR ](https://github.com/naveeddogar) |
+| [PRINCE ](https://github.com/PRINCEGDS) |
 | script master|
 
 ---
