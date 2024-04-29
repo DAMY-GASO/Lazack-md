@@ -1,15 +1,15 @@
 {
-    "name": "Jarvis-md",
+    "name": "Lazack-md",
     "version": "1.1.1",
     "description": "A simple WhatsApp Bot Based On WhiskeySockets/Baileys",
     "main": "index.js",
     "scripts": {
-        "start": "pm2 start . --attach --name jarvis",
-        "stop": "pm2 stop jarvis"
+        "start": "pm2 start . --attach --name Lazack",
+        "stop": "pm2 stop Lazack"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Loki-Xer/Jarvis-md.git"
+        "url": "git+https://github.com/Lazack28/Lazack-md.git"
     },
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
