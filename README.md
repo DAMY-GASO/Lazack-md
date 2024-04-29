@@ -143,7 +143,7 @@
 
 
 ## Thanks To 
-1: Naveed Dogar
+1: INRL
 
 **2:Thanks to KING OF BOTS GROUP**
 
@@ -158,7 +158,7 @@
 <br>
 <h4 align="left">
   
-| [PRINCE ](https://github.com/PRINCEGDS) |
+| [INRL](https://github.com/INRL) |
 | script master|
 
 ---
