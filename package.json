@@ -27,7 +27,7 @@
 
 "bugs": {
 "url": "https://github.com/Lazack28/Lazack-md/issues" },
-"license": "MIT LICENCE",
+"license": "MIT Lisence",
 "dependencies": {
 "@whiskeysockets/baileys": "^6.5.0",
 "@adiwajshing/keyed-db": "^0.2.4",
