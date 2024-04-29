@@ -1,12 +1,12 @@
 {
-    "name": "Jarvis",
+    "name": "lazack",
     "version":"1.0.0",
     "description": "Jarvis Multi Device whatsappbot",
     "logo": "https://i.imgur.com/PmfMtfa.jpeg",
     "keywords": ["whatsapp"],
-    "repository": "https://github.com/Loki-Xer/Jarvis",
-    "website": "https://github.com/Loki-Xer/Jarvis",
-    "success_url": "https://github.com/Loki-Xer/Jarvis",
+    "repository": "https://github.com/Lazack28/Lazack-md",
+    "website": "https://github.com/Lazack28/Lazack-md",
+    "success_url": "https://github.com/Lazack28/Lazack-md",
     "stack": "container",
     "env": {
         "BOT_INFO": {
