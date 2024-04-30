@@ -28,7 +28,7 @@
 ---
 ### ```Scan QR Code```
 
-1. ***Get [SESSION-ID](https://session-dnke.onrender.com) by pairing code. `Whatapp>Three dots>Linked Devices****
+1. ***Get [SESSION-ID](https://qr-pair-hwqv.onrender.com) by pairing code. `Whatapp>Three dots>Linked Devices****
 --- 
 ### ```Fork Repo```
 2. ***Click [FORK](https://github.com/Lazack28/Lazack-md/fork)***
